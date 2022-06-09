@@ -1,2 +1,2 @@
-# N11 Web Test with Selenium and JUnit
- N11 End to End Purchase Automation Scenario 
+# Simple Selenium project with JUNIT for n11.com
+ 
